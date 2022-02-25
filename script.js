@@ -9,4 +9,5 @@ function validaLogin() {
   window.alert('Email ou senha inválidos.');
 }
 
+
 button.addEventListener('click', validaLogin);
