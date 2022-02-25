@@ -1,6 +1,17 @@
 .header {
   display:flex;
   background-color: rgb(50 , 167 , 145);
+  width: 100%;
+  height: auto;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.header h1 {
+}
+
+.header img {
+  width: 60px;
 }
 
 .trybewarts-login {
