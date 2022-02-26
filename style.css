@@ -7,10 +7,6 @@
   padding: 10px;
 }
 
-.header img {
-  width: 60px;
-}
-
 .trybewarts-login {
   display: flex;
 }
@@ -37,7 +33,12 @@
   width: 675px;
   flex-direction: column;
 }
+
 #trybewarts-forms-logo {
   height: 500px;
   float: right;
+}
+
+.fullname {
+  display: flex;
 }
