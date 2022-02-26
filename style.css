@@ -16,11 +16,7 @@
 }
 
 .header h1 {
-  align-self: center;  
-}
-
-.header img {
-  width: 65px;
+  align-self: center;
 }
 
 .form-login {
@@ -29,7 +25,7 @@
 }
 
 #form2 {
-  display:flex
+  display: flex;
 }
 
 #evaluation-form {
@@ -37,6 +33,7 @@
   width: 675px;
   flex-direction: column;
 }
+
 #trybewarts-forms-logo {
   height: 500px;
   float: right;
