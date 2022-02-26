@@ -12,11 +12,7 @@
 }
 
 .header h1 {
-  align-self: center;  
-}
-
-.header img {
-  width: 65px;
+  align-self: center;
 }
 
 .form-login {
@@ -25,7 +21,7 @@
 }
 
 #form2 {
-  display:flex
+  display: flex;
 }
 
 #evaluation-form {
