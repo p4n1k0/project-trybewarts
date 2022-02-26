@@ -7,8 +7,12 @@
   padding: 10px;
 }
 
-.header img {
-  width: 60px;
+main {
+  display: flex;
+}
+
+.trybewarts-header-logo {
+  height: 50px;
 }
 
 .trybewarts-login {
@@ -21,15 +25,46 @@
   flex-direction: column;
 }
 
+<<<<<<< HEAD
 #main {
   display: flex;
 }
 
+=======
+>>>>>>> fcb9d71423bd40a7fb1cb8944fa983d982087c65
 #trybewarts-forms-logo {
   height: 500px;
   float: right;
 }
 
+<<<<<<< HEAD
 .container-forms{
   display: flex;
 }
+=======
+#lastName {
+  display: flex;
+}
+
+#emailHouse {
+  display: flex;
+}
+
+#label-family {
+  display: flex;
+  flex-direction: column;
+}
+
+.radioButtons {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkboxButtons {
+  display: flex;
+}
+
+#agreement {
+  display: flex;
+}
+>>>>>>> fcb9d71423bd40a7fb1cb8944fa983d982087c65
