@@ -51,3 +51,7 @@ main {
 .checkboxButtons {
   display: flex;
 }
+
+#agreement {
+  display: flex;
+}
