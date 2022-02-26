@@ -22,32 +22,28 @@ main {
 #evaluation-form {
   display: flex;
   width: 675px;
+  height: 750px;
   flex-direction: column;
+  align-items: center;
 }
 
-<<<<<<< HEAD
-#main {
-  display: flex;
+#titulo-forms {
+  align-self: center;
 }
 
-=======
->>>>>>> fcb9d71423bd40a7fb1cb8944fa983d982087c65
 #trybewarts-forms-logo {
   height: 500px;
-  float: right;
+  align-self: center;
 }
 
-<<<<<<< HEAD
-.container-forms{
-  display: flex;
-}
-=======
 #lastName {
   display: flex;
+  margin-bottom: 12px;
 }
 
 #emailHouse {
   display: flex;
+  margin-bottom: 12px;
 }
 
 #label-family {
@@ -67,4 +63,3 @@ main {
 #agreement {
   display: flex;
 }
->>>>>>> fcb9d71423bd40a7fb1cb8944fa983d982087c65
