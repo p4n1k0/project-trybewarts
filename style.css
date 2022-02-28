@@ -63,3 +63,8 @@ main {
 #agreement {
   display: flex;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+}
